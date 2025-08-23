@@ -46,7 +46,7 @@ int main() {
 //	return n * factorial(n - 1);
 //}
 //
-
+*/
 //Section 11 Challenge interactive menu using functions and references
 
 void display_menu();
@@ -180,4 +180,5 @@ void clear_list(vector<int>& list_content) {
 		cout << "The list is now empty. Cleaning succesfully!" << endl;
 	}
 	cout << endl;
+
 }
